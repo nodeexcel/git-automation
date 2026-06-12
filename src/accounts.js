@@ -6,6 +6,7 @@ const accounts = [
   { username: 'kishan-kumar-codes',  token: process.env.GITHUB_TOKEN_KISHAN },
   { username: 'Rahul-Khera-Codes',   token: process.env.GITHUB_TOKEN_RAHUL },
   { username: 'gopal-prakash-codes', token: process.env.GITHUB_TOKEN_GOPAL },
+  { username: 'yuvraj-singh-codes',  token: process.env.GITHUB_TOKEN_YUVRAJ },
 ];
 
 function getAccounts() {
