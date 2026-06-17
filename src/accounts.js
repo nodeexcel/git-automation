@@ -1,6 +1,7 @@
 const accounts = [
   { username: 'arun-kumar-codes',    token: process.env.GITHUB_TOKEN_ARUN },
   { username: 'AayushPyAI',          token: process.env.GITHUB_TOKEN_AAYUSH },
+  { username: 'aayush-kumar-codes',  token: process.env.GITHUB_TOKEN_AAYUSH_KUMAR },
   { username: 'vikasexcel',          token: process.env.GITHUB_TOKEN_VIKAS },
   { username: 'nodeexcel',           token: process.env.GITHUB_TOKEN_NODE },
   { username: 'kishan-kumar-codes',  token: process.env.GITHUB_TOKEN_KISHAN },
